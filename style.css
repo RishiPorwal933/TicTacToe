@@ -1,0 +1,65 @@
+*{
+    margin:0px;
+    padding:0px;
+    text-align:center;
+}
+body{
+    background-color:#000000;
+    color:#FF2DF1;
+}
+.outerdiv{
+    height:460px;
+    width:460px;
+    padding:15px;
+    display:flex;
+    border:2px solid white;
+    border-radius:20px; 
+    justify-content:space-evenly;
+    flex-wrap: wrap;
+}
+.MyClass{
+    width:150px;
+    height:150px;
+    background-color:#FFDEDE;
+    color:black;
+    border:2px black solid;
+    border-radius:20px;
+    font-size:70px;
+}
+.seconddiv{
+    font-size:50px;
+    position:fixed;
+    top:50px;
+    left:670px;
+    color:white;
+    font-size:25px;
+}
+table{
+    margin-left:auto;
+    margin-right:auto;
+    border:2px solid white;
+}
+td{
+    border:2px solid white;
+    font-size:50px;
+    width:fit-content;
+    height:fit-content;
+}
+#turn{
+    font-size:40px;
+    color:yellow;
+}
+#result{
+    font-size:50px;
+    color:rgb(253, 0, 211);
+}
+.start,.end{
+    background-color:#FF0B55;
+    color:white;
+    font-size:20px;
+    width:150px;
+    height:50px;
+}
+#final_wnner_name{
+    color:#FFA725;
+}
