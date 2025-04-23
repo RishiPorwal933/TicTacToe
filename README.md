@@ -16,7 +16,7 @@ A classic Tic Tac Toe game built using **HTML**, **CSS**, and **JavaScript**. Tw
 ## 🛠️ Technologies Used
 
 - **HTML**
-- **CSS3**
+- **CSS**
 - **JavaScript**
 
 
